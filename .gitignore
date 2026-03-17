@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Large training artifacts
+best_model.h5
+submission/saved_model/
+dataset_split/
+
+# Generated plots and temporary outputs
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Optional local helper scripts
+post_training.py
+export_models.py
+inference_demo.py
