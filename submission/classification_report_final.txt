@@ -1,0 +1,11 @@
+Train Acc: 0.3719 | Val Acc: 0.3796 | Test Acc: 0.3750
+
+              precision    recall  f1-score   support
+
+ Belang Tiga     0.4184    0.1898    0.2611       216
+       Hitam     0.0000    0.0000    0.0000       216
+     Kampung     0.3673    0.9352    0.5274       216
+
+    accuracy                         0.3750       648
+   macro avg     0.2619    0.3750    0.2629       648
+weighted avg     0.2619    0.3750    0.2629       648
