@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+ Belang Tiga       0.42      0.19      0.26       216
+       Hitam       0.00      0.00      0.00       216
+     Kampung       0.37      0.94      0.53       216
+
+    accuracy                           0.38       648
+   macro avg       0.26      0.38      0.26       648
+weighted avg       0.26      0.38      0.26       648
